@@ -28,7 +28,7 @@ Developer → Git Push → Jenkins (on EKS)
 # Install these tools
 terraform  >= 1.5
 aws-cli    >= 2.x
-kubectl    >= 1.28
+kubectl    >= 1.33
 docker     >= 24.x
 
 # Configure AWS
